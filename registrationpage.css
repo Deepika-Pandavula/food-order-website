@@ -1,0 +1,45 @@
+body{
+    background-image: url(bg1);
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(10, 1, 18);
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+    color:rgb(9, 9, 9);
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: lavender;
+    border-radius: 20px;
+    color: rgb(14, 8, 1);
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: cadetblue;
+}
+p{
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+

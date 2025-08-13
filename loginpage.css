@@ -1,0 +1,16 @@
+body{
+    background-image: url(bg2);
+}
+form{
+    margin-left: 620px;
+    margin-top: 60px;
+    background-color: white;
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: solid;
+    border-radius: 0%;
+    border-bottom-width: 5px;
+}
